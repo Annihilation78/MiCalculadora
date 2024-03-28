@@ -1,7 +1,6 @@
 package MiCalculadora;
 
 import java.util.Scanner;
-//ESTE CÓDIGO HA SIDO REALIZADO POR SERGIO BARRERA JULIÁN
 
 /**
  * Esta clase implementa una calculadora científica que puede realizar diversas operaciones matemáticas.
