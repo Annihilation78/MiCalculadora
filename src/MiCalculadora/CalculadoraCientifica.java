@@ -155,7 +155,7 @@ public class CalculadoraCientifica {
             opcion = scanner.nextInt();
 
             if (opcion == 13) {
-            	
+            	System.out.println("¡Gracias por usar la Calculadora Científica!");
                 break;
             }
 
